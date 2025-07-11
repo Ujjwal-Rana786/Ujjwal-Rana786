@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C, C++,Java, HTML, CSS, JavaScript**
 
-- 📄 Know about my experiences [No formal work experience yet. Actively building my skills through academic learning , coding practice , and self-study](No formal work experience yet. Actively building my skills through academic learning , coding practice , and self-study)
+- 📄 Know about my experiences No formal work experience yet. Actively building my skills through academic learning , coding practice , and self-study
 
 - ⚡ Fun fact **Every minute, we create 1.7 MB of data per person. That's over 2.5 quintillion bytes of data generated every day!**
 
