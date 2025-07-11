@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Every minute, we create 1.7 MB of data per person. That's over 2.5 quintillion bytes of data generated every day!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
