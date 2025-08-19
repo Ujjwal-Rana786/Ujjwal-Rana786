@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
 <p align="center">
-  <img src="PUT-YOUR-IMAGE-LINK-HERE" alt="Welcome Image for Ujjwal's GitHub README" />
+  <img src="/Downlods/Github_profile" alt="Welcome Image for Ujjwal's GitHub README" />
 </p>
 <h3 align="center">Intern at @CodroidHubPrivateLimited | BCA Final Year Student at Govt. Post Graduate College |</h3>
 
